@@ -21,12 +21,83 @@
 - Trading Notification: This project is designed for market monitoring. It tracks the TradingView app and provides periodic notifications based on various time frames (1h, 5m, 15m, 4h). It allows you to quickly navigate to the trading app or the configuration menu to adjust settings.
 - TriChromeLibrary: This is a maintenance utility for system updates. When it detects an update for Chrome or WebView, it triggers a root-level script to copy the updated TriChrome Library files to a backup location to ensure your system components are safely preserved.
 
+## Changelog
+
+Battery Alarms
+v1.2-R2
+- Fix Bugs
+v1.1
+- Improvements
+
+Package Information
+v0.1
+- Initial release
+
+Auto Backup
+v0.2
+- Add email input dialog
+v0.1
+- Initial release
+
+Auto Brightness
+v0.3
+- Improvements
+v0.2
+- Improvements
+
+Trading Notification
+v0.2
+- Add some specifications
+v0.1
+- Initial release
+
+Daily Al-Qur-an Verses
+v1.1
+- English
+v1.0
+- Initial release
+
+Enable Location Mode
+v1.1
+- Triggers "enable location mode" messages in ignore case
+v1.0
+- Initial release
+
+Notification Button Overlay
+v0.3
+- Fix bugs
+v0.2
+- Fix wrong variable in If No Moto Launcher Recents task
+
+Screenshot
+v0.1
+- Initial release
+
+Connection
+v1.1
+- Improvements
+
+Location Mode
+v1.1
+- Improvements
+
+Smule Mic Toggler
+v0.2
+- Improvements
+
+TriChromeLibrary
+v1.2
+- Fix bugs
+v1.1
+- Simplify
+- Android 11 support
+
 ## Requirements
 Paid Tasker app installed as user app: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm
 
 ## Installation Guide & Download Link
 - Install paid Tasker app first at Play Store: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm
-- Download https://devuploads.com/n50ws9lyngxr, extract, and copy the XML files: Ensure the project file (e.g., .prj.xml file) is saved in the internal storage of your device. It is recommended to place it in the Tasker/projects folder for easier access.
+- Download https://devuploads.com/o25jj67u5ejy, extract, and copy the XML files: Ensure the project file (e.g., .prj.xml file) is saved in the internal storage of your device. It is recommended to place it in the Tasker/projects folder for easier access.
 - Open Tasker: Launch the Tasker application.
 - Import the project: 
   - On the bottom bar, look for the Project tabs (represented by icons).
