@@ -97,7 +97,7 @@ Paid Tasker app installed as user app: https://play.google.com/store/apps/detail
 
 ## Installation Guide & Download Link
 - Install paid Tasker app first at Play Store: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm
-- Download https://devuploads.com/o25jj67u5ejy, extract, and copy the XML files: Ensure the project file (e.g., .prj.xml file) is saved in the internal storage of your device. It is recommended to place it in the Tasker/projects folder for easier access.
+- Download https://devuploads.com/d5bj6ul115gs, extract, and copy the XML files: Ensure the project file (e.g., .prj.xml file) is saved in the internal storage of your device. It is recommended to place it in the Tasker/projects folder for easier access.
 - Open Tasker: Launch the Tasker application.
 - Import the project: 
   - On the bottom bar, look for the Project tabs (represented by icons).
