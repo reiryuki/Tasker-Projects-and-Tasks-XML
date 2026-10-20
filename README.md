@@ -23,7 +23,7 @@
 
 ## Changelog
 
-Battery Alarms
+### Battery Alarms
 
 v1.3
 - Improvements
@@ -34,12 +34,12 @@ v1.2-R2
 v1.1
 - Improvements
 
-Package Information
+### Package Information
 
 v0.1
 - Initial release
 
-Auto Backup
+### Auto Backup
 
 v0.2
 - Add email input dialog
@@ -47,7 +47,7 @@ v0.2
 v0.1
 - Initial release
 
-Auto Brightness
+### Auto Brightness
 
 v0.3
 - Improvements
@@ -55,7 +55,7 @@ v0.3
 v0.2
 - Improvements
 
-Trading Notification
+### Trading Notification
 
 v0.3
 - Fix 4 hours timeframe profiles for Forex Chart notifications
@@ -67,7 +67,7 @@ v0.2
 v0.1
 - Initial release
 
-Daily Al-Qur-an Verses
+### Daily Al-Qur-an Verses
 
 v1.1
 - English
@@ -75,7 +75,7 @@ v1.1
 v1.0
 - Initial release
 
-Enable Location Mode
+### Enable Location Mode
 
 v1.1
 - Triggers "enable location mode" messages in ignore case
@@ -83,7 +83,7 @@ v1.1
 v1.0
 - Initial release
 
-Notification Button Overlay
+### Notification Button Overlay
 
 v0.3
 - Fix bugs
@@ -91,27 +91,27 @@ v0.3
 v0.2
 - Fix wrong variable in If No Moto Launcher Recents task
 
-Screenshot
+### Screenshot
 
 v0.1
 - Initial release
 
-Connection
+### Connection
 
 v1.1
 - Improvements
 
-Location Mode
+### Location Mode
 
 v1.1
 - Improvements
 
-Smule Mic Toggler
+### Smule Mic Toggler
 
 v0.2
 - Improvements
 
-TriChromeLibrary
+### TriChromeLibrary
 
 v1.2
 - Fix bugs
