@@ -24,75 +24,98 @@
 ## Changelog
 
 Battery Alarms
+
 v1.3
 - Improvements
+
 v1.2-R2
 - Fix Bugs
+
 v1.1
 - Improvements
 
 Package Information
+
 v0.1
 - Initial release
 
 Auto Backup
+
 v0.2
 - Add email input dialog
+
 v0.1
 - Initial release
 
 Auto Brightness
+
 v0.3
 - Improvements
+
 v0.2
 - Improvements
 
 Trading Notification
+
 v0.3
 - Fix 4 hours timeframe profiles for Forex Chart notifications
 - Add notification click triggers
+
 v0.2
 - Add some specifications
+
 v0.1
 - Initial release
 
 Daily Al-Qur-an Verses
+
 v1.1
 - English
+
 v1.0
 - Initial release
 
 Enable Location Mode
+
 v1.1
 - Triggers "enable location mode" messages in ignore case
+
 v1.0
 - Initial release
 
 Notification Button Overlay
+
 v0.3
 - Fix bugs
+
 v0.2
 - Fix wrong variable in If No Moto Launcher Recents task
 
 Screenshot
+
 v0.1
 - Initial release
 
 Connection
+
 v1.1
 - Improvements
 
 Location Mode
+
 v1.1
 - Improvements
 
 Smule Mic Toggler
+
 v0.2
 - Improvements
 
 TriChromeLibrary
+
 v1.2
 - Fix bugs
+
 v1.1
 - Simplify
 - Android 11 support
